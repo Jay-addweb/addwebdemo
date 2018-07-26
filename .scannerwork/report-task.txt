@@ -1,0 +1,6 @@
+projectKey=jay:5
+serverUrl=http://192.168.0.254:9000
+serverVersion=7.1.0.11001
+dashboardUrl=http://192.168.0.254:9000/dashboard/index/jay:5
+ceTaskId=AWSoC08uccM_34vOkYPq
+ceTaskUrl=http://192.168.0.254:9000/api/ce/task?id=AWSoC08uccM_34vOkYPq
